@@ -1,6 +1,8 @@
-![Twitter URL](https://img.shields.io/twitter/url?label=kcotrinam_dev&style=social&url=https%3A%2F%2Ftwitter.com%2Fkcotrinam_dev)
-![](https://img.shields.io/static/v1?label=kevincotrina&message=LinkedIn&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/kcotrinam?style=flat-square)
+![Twitter URL](https://img.shields.io/twitter/url?label=kcotrinam_dev&style=social&url=https%3A%2F%2Ftwitter.com%2Fkcotrinam_dev&style="for-the-badge")
+![](https://img.shields.io/static/v1?label=kevincotrina&message=LinkedIn&color=blue&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/kcotrinam?style=for-the-badge)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kcotrinam&countColorcountColor&countColor=%237B1E7A)
+
 
 ## Hi there, I'm Kevin Cotrina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
