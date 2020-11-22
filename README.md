@@ -1,6 +1,6 @@
 <a href="https://twitter.com/kcotrinam_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kcotrinam_dev?logo=twitter&style=for-the-badge" alt="kcotrinam_dev" /></a>
 ![](https://img.shields.io/static/v1?label=kevincotrina&message=LinkedIn&color=blue&style=for-the-badge)
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kcotrinam&countColorcountColor&countColor=%237B1E7A)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kcotrinam&countColorcountColor&countColor=%237B1E7A)<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ## Hi there, I'm Kevin Cotrina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
