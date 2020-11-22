@@ -27,8 +27,8 @@
 <p>
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=jolly" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact&theme=jolly" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=jolly" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact&theme=jolly" />
 </div>
 
 
