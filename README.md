@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&layout=compact%theme=jolly" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact&theme=jolly" />
 
 
