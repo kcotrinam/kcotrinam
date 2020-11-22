@@ -19,6 +19,7 @@ const Kevin = {
       databases: ["Postgresql"]
    },
    currentOccupation: ["Student at Microverse, open for job opportunities"]
+   Hobbies: ["Music", "Basketball", "videogames", "Side Projects"]
 };
 ```
 <p align="center">
