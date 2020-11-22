@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Kevin Cotrina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**kcotrinam/kcotrinam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/kcotrinam_dev">
+  <img align="left" alt="Kevin Cotrina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/kevincotrina/">
+  <img align="left" alt="Kevin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=kcotrinam.kcotrinam)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kcotrinam)](https://github.com/kcotrinam/github-readme-stats)
