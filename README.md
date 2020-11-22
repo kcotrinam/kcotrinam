@@ -35,7 +35,7 @@
 
 
 
-![kevin's github stats](https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=radical)
+![kevin's github stats](https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact)](https://github.com/kcotrinam/github-readme-stats)
 
