@@ -30,6 +30,7 @@
 
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=kcotrinam&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact)](https://github.com/kcotrinam/github-readme-stats)
 
