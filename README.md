@@ -1,4 +1,4 @@
-![Twitter URL](https://img.shields.io/twitter/url?label=kcotrinam_dev&style=social&url=https%3A%2F%2Ftwitter.com%2Fkcotrinam_dev)
+<a href="https://twitter.com/kcotrinam_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kcotrinam_dev?logo=twitter&style=for-the-badge" alt="kcotrinam_dev" /></a>
 ![](https://img.shields.io/static/v1?label=kevincotrina&message=LinkedIn&color=blue&style=for-the-badge)
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kcotrinam&countColorcountColor&countColor=%237B1E7A)
 
