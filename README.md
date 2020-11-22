@@ -4,13 +4,9 @@
 <a href="https://www.linkedin.com/in/kevincotrina/">
   <img align="left" alt="Kevin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=kcotrinam.kcotrinam)
+![](https://visitor-badge.laobi.icu/badge?page_id=kcotrinam.visitor-badge)
 
 ## Hi there, I'm Kevin Cotrina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-
-<br />
 
 ### Languages
 <p align="left">
