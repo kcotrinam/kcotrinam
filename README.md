@@ -27,7 +27,7 @@
 <p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&theme=jolly" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact&theme=jolly" />
 
 
 
