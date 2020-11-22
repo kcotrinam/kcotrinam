@@ -28,14 +28,8 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <p>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=jolly" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact&theme=jolly" />
+[![kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kcotrinam)](https://github.com/kcotrinam/github-readme-stats)
 
 
-
-
-
-<a href="https://github.com/kcotrinam/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=jolly" />
-</a>
-<a href="https://github.com/kcotrinam/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact&theme=jolly" />
-</a>
