@@ -26,8 +26,7 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <p>
 
-![kevin's github stats](https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=jolly)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=jolly" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact&theme=jolly" />
 
 
