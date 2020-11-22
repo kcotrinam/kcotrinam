@@ -21,7 +21,6 @@ const Kevin = {
    currentOccupation: ["Student at Microverse, open for job opportunities"]
 };
 ```
-### Languages & Tools
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="24" height="24"/>
@@ -58,6 +57,7 @@ const Kevin = {
   </a>
 </p>
 
+---
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=jolly" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact&theme=jolly" />
