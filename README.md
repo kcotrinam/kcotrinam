@@ -11,4 +11,4 @@
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kcotrinam)](https://github.com/kcotrinam/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=radical)
