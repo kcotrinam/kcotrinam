@@ -28,8 +28,10 @@
 
 
 
-![kevin's github stats](https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=jolly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact)](https://github.com/kcotrinam/github-readme-stats)
+
+![kevin's github stats](https://github-readme-stats.vercel.app/api?username=kcotrinam&show_icons=true&theme=jolly)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&theme=jolly" />
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kcotrinam)](https://github.com/kcotrinam/github-readme-stats)
+
