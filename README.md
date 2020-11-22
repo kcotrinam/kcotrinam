@@ -29,7 +29,8 @@
 <p>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcotrinam&layout=compact&theme=jolly" />
+
+
 
 
 <a href="https://github.com/kcotrinam/github-readme-stats">
