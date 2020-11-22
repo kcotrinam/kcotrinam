@@ -1,10 +1,4 @@
-<a href="https://twitter.com/kcotrinam_dev">
-  <img align="left" alt="Kevin Cotrina | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kevincotrina/">
-  <img align="left" alt="Kevin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-![](https://visitor-badge.laobi.icu/badge?page_id=kcotrinam.visitor-badge)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fkcotrinam_dev)
 
 ## Hi there, I'm Kevin Cotrina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
