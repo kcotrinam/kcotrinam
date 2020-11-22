@@ -21,7 +21,7 @@ const Kevin = {
    currentOccupation: ["Student at Microverse, open for job opportunities"]
 };
 ```
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="24" height="24"/>
   </a>
