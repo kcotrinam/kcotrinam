@@ -23,20 +23,10 @@ const Kevin = {
 };
 ```
 
-<p align="center">
-    
-   [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/kcotrinam/)
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24"/>
-  </a>
-  [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/kcotrinam/)
-  [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/kcotrinam/)
   
-  <a href="https://pugjs.org" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="24" height="24"/>
-  </a>
- 
-</p>
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/kcotrinam/)
+[![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/kcotrinam/)
+[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/kcotrinam/)
 
 ---
 <p>
