@@ -1,5 +1,6 @@
 <a href="https://twitter.com/kcotrinam_dev" target="blank"><img src="https://img.shields.io/twitter/follow/kcotrinam_dev?logo=twitter&style=for-the-badge" alt="kcotrinam_dev" /></a>
 ![](https://img.shields.io/static/v1?label=kevincotrina&message=LinkedIn&color=blue&style=for-the-badge)
+[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kcotrinam92@gmail.com)
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kcotrinam&countColorcountColor&countColor=%237B1E7A)<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
@@ -22,11 +23,17 @@ const Kevin = {
    Hobbies: ["Music", "Basketball", "videogames", "Side Projects"]
 };
 ```
-
+### SKILLS 🔧 ⚙️
+#### Programming Languages:
   
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/kcotrinam/)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/kcotrinam/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/kcotrinam/)
+
+#### Frameworks:
+[![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://github.com/kcotrinam/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/kcotrinam/)
+[![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/kcotrinam/)
 
 ---
 <p>
