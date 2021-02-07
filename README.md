@@ -23,39 +23,18 @@ const Kevin = {
 };
 ```
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="24" height="24"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="24" height="24"/>
-  </a>
+   [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/kcotrinam/)
+   [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/kcotrinam/)
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="24" height="24"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="24" height="24"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="24" height="24"/>
-  </a>
+  [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/kcotrinam/)
+  [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/kcotrinam/)
+  
   <a href="https://pugjs.org" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="24" height="24"/>
   </a>
-  <a href="https://rubyonrails.org" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="24" height="24"/>
-  </a>
-  <a href="https://www.ruby-lang. org/en/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="24" height="24"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="24" height="24"/>
-  </a>
+ 
 </p>
 
 ---
