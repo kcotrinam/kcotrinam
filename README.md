@@ -22,8 +22,9 @@ const Kevin = {
    Hobbies: ["Music", "Basketball", "videogames", "Side Projects"]
 };
 ```
+
 <p align="center">
-   [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/kcotrinam/)
+    
    [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/kcotrinam/)
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24"/>
